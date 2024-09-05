@@ -104,9 +104,4 @@ pip install -r requirements.txt
 
 ---
 
-### Contributing
-
-Feel free to fork the repository, create pull requests, or open issues for new features, bugs, or documentation improvements.
-
----
 
