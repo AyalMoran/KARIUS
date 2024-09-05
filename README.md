@@ -1,4 +1,7 @@
 
+![chrome_wCbLhEp59f](https://github.com/user-attachments/assets/b150dbb0-9c97-4ae3-bcbe-f11bbd85ea0b)
+
+
 # KARIUS Dental App
 
 ### Overview
