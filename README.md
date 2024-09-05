@@ -28,9 +28,6 @@ This project uses technologies such as:
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ### Installation
